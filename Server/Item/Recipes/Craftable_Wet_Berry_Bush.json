@@ -1,0 +1,33 @@
+{
+  "Input": [
+    {
+      "ItemId": "Plant_Fruit_Berries_Red",
+      "Quantity": 10
+    },
+    {
+      "ItemId": "Ingredient_Life_Essence",
+      "Quantity": 40
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Plant_Crop_Berry_Wet_Block",
+    "Quantity": 1
+  },
+  "Output": [
+    {
+      "ItemId": "Plant_Crop_Berry_Wet_Block",
+      "Quantity": 1
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Farmingbench",
+      "Categories": [
+        "Bushes"
+      ],
+      "RequiredTierLevel": 4
+    }
+  ],
+  "TimeSeconds": 0
+}

@@ -1,0 +1,21 @@
+{
+  "Group": "Vandreic",
+  "Name": "Craftable Berry Bushes",
+  "Version": "1.0.0",
+  "Description": "Adds craftable berry bushes to the Farmer’s Workbench.",
+  "Authors": [
+    {
+      "Name": "Vandreic",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "2026.02.19-1a311a592",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
