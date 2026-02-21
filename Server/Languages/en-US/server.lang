@@ -1,12 +1,1 @@
 benchCategories.farmingbench.bushes = Bushes
-
-items.Plant_Crop_Berry_Block.name = Berry Bush
-items.Plant_Crop_Berry_Block.description = [TMP] Harvesting:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Wild Berries</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>\n• <color is="#ffffff">Regrows</color>
-
-
-items.Plant_Bush_Winter_Berry.name = Winter Berry Bush
-items.Plant_Crop_Berry_Winter_Block.description = [TMP] Harvesting:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Wild Berries</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>\n• <color is="#ffffff">Regrows</color>
-
-
-items.Plant_Bush_Wet_Berry.name = Wet Berry Bush
-items.Plant_Crop_Berry_Wet_Block.description = [TMP] Harvesting:\n• <color is="#4ade80">1-2</color> <color is="#ffffff">Wild Berries</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>\n• <color is="#ffffff">Regrows</color>

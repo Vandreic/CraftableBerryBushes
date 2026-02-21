@@ -2,20 +2,20 @@
   "Input": [
     {
       "ItemId": "Plant_Fruit_Berries_Red",
-      "Quantity": 10
+      "Quantity": 30
     },
     {
       "ItemId": "Ingredient_Life_Essence",
-      "Quantity": 40
+      "Quantity": 50
     }
   ],
   "PrimaryOutput": {
-    "ItemId": "Plant_Crop_Berry_Wet_Block",
+    "ItemId": "Plant_Crop_Berry_Winter_Block",
     "Quantity": 1
   },
   "Output": [
     {
-      "ItemId": "Plant_Crop_Berry_Wet_Block",
+      "ItemId": "Plant_Crop_Berry_Winter_Block",
       "Quantity": 1
     }
   ],
@@ -26,7 +26,7 @@
       "Categories": [
         "Bushes"
       ],
-      "RequiredTierLevel": 4
+      "RequiredTierLevel": 5
     }
   ],
   "TimeSeconds": 0
